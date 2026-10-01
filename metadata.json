@@ -1,0 +1,6 @@
+{
+  "name": "StudyOS — Class 9 Study Planner",
+  "description": "A calm, minimal, Apple-inspired productivity operating system for Class 9 students to organize homework, focus with Pomodoro, tackle backlogs, and review daily progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
